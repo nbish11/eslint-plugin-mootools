@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-mootools",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Linting rules and environments for MooTools",
   "keywords": [
     "eslint",
