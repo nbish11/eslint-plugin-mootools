@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-mootools",
+  "version": "1.0.0",
+  "description": "Linting rules and environments for MooTools",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "mootools"
+  ],
+  "author": "Nathan Bishop",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
